@@ -1,0 +1,173 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: 'Cabinet Grotesk', 'Satoshi',sans-serif;
+}
+
+.signup-main {
+  max-width: 100%;
+  height: 848.1px;
+  font-family: inherit;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.m-container {
+  width: 500px;
+  height: 848.1px;
+  font-family: inherit;
+  margin: 0 509.6px;
+  padding: 20px 20px 50px;
+}
+
+.login-logo {
+  width: 460px;
+  height: 34.1px;
+}
+
+.span {
+  width: 460px;
+  height: 37px;
+  font-family: inherit;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.span span {
+  background-color: rgb(241, 245, 249);
+  color: rgb(0, 0, 0);
+  border-radius: 34px;
+  font-size: 14px;
+  font-weight: 500;
+  padding: 8px 16px;
+}
+
+.login-logo img {
+  width: 150px;
+  height: 34.1px;
+}
+
+.header {
+  width: 460px;
+  height: 95px;
+  margin: 16px 0 0;
+  padding: 0 0 40px;
+}
+
+.header h1 {
+  color: rgb(0, 11, 10);
+  font-size: 24px;
+  font-weight: 500px;
+  padding: 0 0 4px;
+  word-spacing: 1px;
+}
+
+.header p {
+  color: rgb(100, 116, 139);
+  font-size: 16px;
+  font-weight: 500px;
+}
+
+.form {
+  width: 460px;
+  height: 386px;
+  font-family: inherit;
+}
+
+.form .label, .form .label {
+  width: 460px;
+  height: 92px;
+  display: block;
+}
+
+.label label, .label input {
+  display: block;
+}
+
+.label input:focus {
+  background-color: rgba(255, 255, 53, 0.2);
+  color: rgb(0, 0, 0);
+  border: 1px solid rgb(204, 204, 23);
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  display: none;
+}
+
+.label label {
+  color: rgb(0, 11, 10);
+  font-size: 14px;
+  font-weight: 700;
+  margin-left: 16px;
+}
+
+.label input {
+  width: 460px;
+  height: 56px;
+  display: inline-block;
+  background-color: rgb(241, 245, 249);
+  color: rgb(100, 116, 139);
+  font-size: 14px;
+  font-weight: 500;
+  outline: none;
+  border: none;
+  border-radius: 58px;
+  margin-top: 12px;
+  padding: 16px 20px;
+}
+
+.l-two {
+  margin-top: 24px;
+}
+
+.form .fgt-pass {
+  width: 460px;
+  height: 29px;
+  color: rgb(0, 57, 48);
+  text-decoration: none;
+}
+
+.fgt-pass p {
+  color: rgb(0, 57, 48);
+  font-size: 14px;
+  font-weight: 700;
+  margin: 8px 0 0 16px;
+}
+
+.form-btn {
+  width: 460px;
+  height: 58px;
+  margin-top: 50px;
+  background-color: rgb(0, 57, 48);
+  color: rgb(255, 255, 255);
+  font-size: 16px;
+  font-weight: 700;
+  border: none;
+  border-radius: 37px;
+  cursor: pointer;
+}
+
+.dont-have-acct {
+  width: 460px;
+  height: 21px;
+  margin-top: 20px;
+  color: rgb(0, 11, 10);
+  font-size: 14px;
+  font-weight: 500;
+  text-align: center;
+  word-spacing: 1px;
+}
+
+.dont-have-acct span a {
+  background-color: rgba(0, 0, 0, 0);
+  color: rgb(0, 57, 48);
+  text-decoration: solid rgb(0, 57, 48);
+  font-size: 14px;
+  font-weight: 700;
+}
