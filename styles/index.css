@@ -802,7 +802,7 @@ nav .login-create {
 
   .ts-img {
     max-width: 100%;
-    height: 1078.94px;
+    height: auto;
   }
 
   /* MEDIA QUERY FOR FOOTER */
