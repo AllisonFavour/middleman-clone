@@ -28,6 +28,7 @@ body {
 .login-logo {
   width: 160px;
   height: 34.1px;
+  padding-inline-start: 20px;
 }
 
 .login-logo img {
@@ -40,6 +41,7 @@ body {
   height: 95px;
   margin: 16px 0 0;
   padding: 0 0 40px;
+  padding-inline-start: 20px;
 }
 
 .header h1 {
