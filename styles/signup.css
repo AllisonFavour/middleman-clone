@@ -40,6 +40,7 @@ body {
   font-family: inherit;
   text-align: right;
   padding-inline: 20px;
+  padding-inline-end: 20px;
 }
 
 .span span {
