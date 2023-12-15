@@ -31,6 +31,7 @@ body {
 .login-logo img {
   width: 160px;
   height: 34.1px;
+  padding-inline: 20px;
 }
 
 .span {
@@ -38,6 +39,7 @@ body {
   height: 37px;
   font-family: inherit;
   text-align: right;
+  padding-inline: 20px;
 }
 
 .span span {
@@ -53,7 +55,7 @@ body {
   width: 360px;
   height: 95px;
   margin: 16px 0 0;
-  padding: 0 0 40px;
+  padding: 0 20px 40px;
 }
 
 .header h1 {
