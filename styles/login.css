@@ -14,6 +14,7 @@ body {
   height: 601.1px;
   margin: 0 auto;
   font-family: inherit;
+  padding-inline: 20px;
 }
 
 .container {
